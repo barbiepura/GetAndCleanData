@@ -30,13 +30,6 @@
 
 ## Exporting final dataset to same working directory
 
-### "tidyDS.txt"
+* "tidyDS.txt"
 
-## Output example
-
-> head(meanstable)
->  Identifier         Activity Avg_ tBodyAcc.mean...X Avg_ tBodyAcc.mean...Y Avg_ tBodyAcc.mean...Z Avg_ tGravityAcc.mean...X
->1          1          WALKING              0.2656969            -0.01829817             -0.1078457                 0.7448674
->2          2          WALKING              0.2731131            -0.01913232             -0.1156500                 0.6607829
->3          3          WALKING              0.2734287            -0.01785607             -0.1064926                 0.7078144
 
